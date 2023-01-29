@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">የባቡር ትኬት መቁረጫ</string>
+    <string name="dialog_message">Tor Hailoch \nCocacola \nSt. Lideta \nTegbared \nMexico \nLegehar \nStadium
+        \nSt. Estifanos \nBambis \nSt. Urael \nHaya Hulet 2 \nHaya Hulet 1 \nLem Hotel \nMegenania \nGurd Shola 2
+        \nGurd Shola 1 \nManagement Institute \nCivil Service University \nSt. Michael \nCMC \nMeri \nAyat
+    </string>
+    <string name="dialog_message2">Kality \nAbo Junction \nSaris \nAdey Abebea \nNefas Silk1 \nNefas Silk2
+        \nLancha \nTemenja Yazh \nRiche \nMeshualekia \nStadium \nLegehar \nMexico \nTegbared \nSt. Lideta
+        \nDarmar \nAbinet \nSebatenia \nAutobus Tera \nGojam Berenda \nAtikilt Tera \nMenelik II Square
+
+    </string>
+</resources>
